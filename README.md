@@ -3,6 +3,17 @@
 **Disciplina:** Fundamentos de Inteligência Artificial
 **Ferramenta:** Logic Tensor Networks (LTNtorch)
 
+### 👨‍💻 Integrantes do Grupo
+
+* [Bruno José dos Santos de Melo] 
+* [Isaque Gomes da Costa Filho] 
+* [João Ricardo dos Santos Neto] 
+* [João Victor Bastos Pinheiro]
+* [Matheus Ricardo Oliveira Lima] 
+* [Rodrigo de Souza Cunha]
+* [Sara Oliveira dos Santos]
+* [Vinícius Matheus N. de Oliveira]
+
 ---
 
 ## 1. Descrição Teórica
