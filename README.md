@@ -32,6 +32,10 @@ Foi simulado um ambiente com objetos definidos por vetores de características d
 * **Cor [2-4]:** One-hot encoding (RGB).
 * **Forma [5-9]:** One-hot encoding (Círculo, Quadrado, Cilindro, Cone, Triângulo).
 * **Tamanho [10]:** Valor contínuo (0.0 a 1.0).
+* ### 1.3. O Dataset CLEVR Simplificado
+Foi simulado um ambiente com objetos definidos por vetores...
+
+![Exemplo dos Objetos CLEVR](objeto.jpeg)
 
 ---
 
