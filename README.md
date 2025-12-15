@@ -33,8 +33,6 @@ Foi simulado um ambiente com objetos definidos por vetores de características d
 * **Forma [5-9]:** One-hot encoding (Círculo, Quadrado, Cilindro, Cone, Triângulo).
 * **Tamanho [10]:** Valor contínuo (0.0 a 1.0).
 
-![Exemplo dos Objetos CLEVR](objeto.jpeg)
-
 ---
 
 ## 2. Experimentos e Métricas
